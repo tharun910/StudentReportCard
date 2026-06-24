@@ -1,0 +1,9 @@
+===== STUDENT REPORT CARD =====
+Name: Sneha
+Math: 60
+Science: 65
+English: 58
+Total: 183
+Average: 61.00
+Standard Deviation: 3.61
+Grade: D

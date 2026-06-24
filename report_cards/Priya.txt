@@ -1,0 +1,9 @@
+===== STUDENT REPORT CARD =====
+Name: Priya
+Math: 95
+Science: 92
+English: 97
+Total: 284
+Average: 94.67
+Standard Deviation: 2.52
+Grade: A

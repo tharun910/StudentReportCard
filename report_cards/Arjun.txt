@@ -1,0 +1,9 @@
+===== STUDENT REPORT CARD =====
+Name: Arjun
+Math: 70
+Science: 75
+English: 72
+Total: 217
+Average: 72.33
+Standard Deviation: 2.52
+Grade: C

@@ -1,0 +1,9 @@
+===== STUDENT REPORT CARD =====
+Name: Rahul
+Math: 85
+Science: 90
+English: 88
+Total: 263
+Average: 87.67
+Standard Deviation: 2.52
+Grade: B
