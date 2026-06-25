@@ -31,3 +31,6 @@ Report cards are generated inside the report_cards folder.
 - Store student records in a database
 - Export report cards as PDF
 - Support additional subjects
+## CSV Reader
+
+- Improved documentation for CSV file handling.
