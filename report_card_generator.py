@@ -7,14 +7,23 @@ import statistics
 os.makedirs("report_cards", exist_ok=True)
 
 def get_grade(avg):
+    # Excellent
     if avg >= 90:
         return "A"
+
+    # Very Good
     elif avg >= 80:
         return "B"
+
+    # Good
     elif avg >= 70:
         return "C"
+
+    # Pass
     elif avg >= 60:
         return "D"
+
+    # Fail
     else:
         return "F"
 
