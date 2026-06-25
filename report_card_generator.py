@@ -29,7 +29,10 @@ with open("data/students.csv", "r") as file:
             int(row["Science"]),
             int(row["English"])
         ]
-
+# Check that all marks are between 0 and 100
+if any(mark < 0 or mark > 100 for mark in marks):
+    print(f"Invalid marks for {name}")
+    continue
         total = sum(marks)
         average = total / len(marks)
 
