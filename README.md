@@ -25,3 +25,9 @@ python report_card_generator.py
 ## Output
 
 Report cards are generated inside the report_cards folder.
+## Future Enhancements
+
+- Add a graphical user interface (GUI)
+- Store student records in a database
+- Export report cards as PDF
+- Support additional subjects
