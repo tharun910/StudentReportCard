@@ -34,3 +34,7 @@ Report cards are generated inside the report_cards folder.
 ## CSV Reader
 
 - Improved documentation for CSV file handling.
+## Report Generation
+
+- Automatically generates individual report cards for every student.
+- Calculates total marks, average, and grade.
