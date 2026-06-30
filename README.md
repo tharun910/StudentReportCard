@@ -42,3 +42,6 @@ Report cards are generated inside the report_cards folder.
 
 - Add a graphical user interface (GUI).
 - Store student data in a database.
+## Project Maintainer
+
+Project maintained using GitHub collaboration by the development team.
