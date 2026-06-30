@@ -38,3 +38,7 @@ Report cards are generated inside the report_cards folder.
 
 - Automatically generates individual report cards for every student.
 - Calculates total marks, average, and grade.
+## Future Scope
+
+- Add a graphical user interface (GUI).
+- Store student data in a database.
